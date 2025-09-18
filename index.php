@@ -20,7 +20,7 @@
                 <label for="foto_animal">Selecione a Música:</label>
                 <input type="file" id="arquivo_musica" name="arquivo_musica" accept="audio/mp3" required>
             </div>
-            <button type="submit">Cadastrar Foto</button>
+            <button type="submit">Cadastrar Música</button>
         </form>
     </div>
 </body>
